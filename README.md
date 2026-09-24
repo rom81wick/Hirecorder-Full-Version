@@ -237,4 +237,4 @@ This repository serves as the official landing page for HiRecorder. The software
 **Get the most recent version of HiRecorder today!**
 
 ---
-**Last updated:** 2026-09-24 10:54:49 UTC
+**Last updated:** 2026-09-24 15:39:54 UTC
